@@ -1,0 +1,520 @@
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:36:01 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 363,9868ms
+moved types parse time: 59ms
+candidates parse time : 4ms
+C# parse time         : 195ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:36:43 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93,7493ms
+moved types parse time: 59ms
+candidates parse time : 5ms
+C# parse time         : 182ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:37:23 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73,8036ms
+moved types parse time: 57ms
+candidates parse time : 4ms
+C# parse time         : 181ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:38:03 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72,8065ms
+moved types parse time: 50ms
+candidates parse time : 9ms
+C# parse time         : 171ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:39:27 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 74,2302ms
+moved types parse time: 49ms
+candidates parse time : 9ms
+C# parse time         : 176ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:42:59 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78,0905ms
+moved types parse time: 50ms
+candidates parse time : 8ms
+C# parse time         : 176ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:43:14 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73,5192ms
+moved types parse time: 51ms
+candidates parse time : 9ms
+C# parse time         : 177ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 2:44:45 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72,0585ms
+moved types parse time: 53ms
+candidates parse time : 9ms
+C# parse time         : 173ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 3:06:44 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79,89ms
+moved types parse time: 50ms
+candidates parse time : 9ms
+C# parse time         : 170ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 3:24:49 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72,8072ms
+moved types parse time: 51ms
+candidates parse time : 8ms
+C# parse time         : 170ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 3:31:15 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 74,3913ms
+moved types parse time: 50ms
+candidates parse time : 4ms
+C# parse time         : 180ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 3:31:43 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76,229ms
+moved types parse time: 49ms
+candidates parse time : 8ms
+C# parse time         : 170ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 3:33:36 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76,7952ms
+moved types parse time: 49ms
+candidates parse time : 3ms
+C# parse time         : 176ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 3:34:08 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75,7954ms
+moved types parse time: 50ms
+candidates parse time : 9ms
+C# parse time         : 195ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 3:35:00 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75,799ms
+moved types parse time: 50ms
+candidates parse time : 8ms
+C# parse time         : 176ms
+candidates check time : 30ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 23/12/2020 5:06:53 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75,7976ms
+moved types parse time: 51ms
+candidates parse time : 3ms
+C# parse time         : 179ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 10:53:58 π.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100,1673ms
+moved types parse time: 50ms
+candidates parse time : 8ms
+C# parse time         : 181ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 10:55:12 π.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79,3003ms
+moved types parse time: 58ms
+candidates parse time : 8ms
+C# parse time         : 163ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 10:55:53 π.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 71,7075ms
+moved types parse time: 49ms
+candidates parse time : 4ms
+C# parse time         : 155ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 11:56:27 π.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 81,5506ms
+moved types parse time: 57ms
+candidates parse time : 8ms
+C# parse time         : 165ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 12:04:43 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 74,201ms
+moved types parse time: 49ms
+candidates parse time : 8ms
+C# parse time         : 168ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 12:05:33 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73,8062ms
+moved types parse time: 51ms
+candidates parse time : 9ms
+C# parse time         : 181ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 12:05:36 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75,7986ms
+moved types parse time: 53ms
+candidates parse time : 4ms
+C# parse time         : 185ms
+candidates check time : 25ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 12:05:40 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83,7762ms
+moved types parse time: 50ms
+candidates parse time : 4ms
+C# parse time         : 176ms
+candidates check time : 26ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 24/12/2020 12:43:55 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78,7893ms
+moved types parse time: 50ms
+candidates parse time : 9ms
+C# parse time         : 179ms
+candidates check time : 27ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 25/12/2020 11:37:24 π.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 408,708ms
+moved types parse time: 54ms
+candidates parse time : 10ms
+C# parse time         : 253ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 29/12/2020 2:09:45 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 605,3955ms
+moved types parse time: 66ms
+candidates parse time : 13ms
+C# parse time         : 329ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/2/2021 5:23:24 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 862,3973ms
+moved types parse time: 53ms
+candidates parse time : 9ms
+C# parse time         : 299ms
+candidates check time : 28ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/2/2021 5:23:47 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 125,7023ms
+moved types parse time: 52ms
+candidates parse time : 8ms
+C# parse time         : 173ms
+candidates check time : 28ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/2/2021 5:23:59 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83,4798ms
+moved types parse time: 50ms
+candidates parse time : 4ms
+C# parse time         : 195ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:05:59 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 670,9366ms
+moved types parse time: 59ms
+candidates parse time : 10ms
+C# parse time         : 429ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:00 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,747ms
+moved types parse time: 59ms
+candidates parse time : 10ms
+C# parse time         : 204ms
+candidates check time : 91ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:08 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87,9867ms
+moved types parse time: 56ms
+candidates parse time : 10ms
+C# parse time         : 204ms
+candidates check time : 81ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:10 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85,3643ms
+moved types parse time: 58ms
+candidates parse time : 10ms
+C# parse time         : 170ms
+candidates check time : 65ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:14 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 189,0681ms
+moved types parse time: 56ms
+candidates parse time : 11ms
+C# parse time         : 184ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:18 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92,2339ms
+moved types parse time: 54ms
+candidates parse time : 11ms
+C# parse time         : 180ms
+candidates check time : 66ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:21 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88,7602ms
+moved types parse time: 59ms
+candidates parse time : 14ms
+C# parse time         : 216ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:24 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88,7625ms
+moved types parse time: 65ms
+candidates parse time : 9ms
+C# parse time         : 206ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:27 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86,5462ms
+moved types parse time: 64ms
+candidates parse time : 9ms
+C# parse time         : 179ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:30 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94,7478ms
+moved types parse time: 69ms
+candidates parse time : 12ms
+C# parse time         : 195ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:33 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,7756ms
+moved types parse time: 63ms
+candidates parse time : 13ms
+C# parse time         : 197ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:38 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91,7531ms
+moved types parse time: 54ms
+candidates parse time : 4ms
+C# parse time         : 209ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:41 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84,2192ms
+moved types parse time: 186ms
+candidates parse time : 7ms
+C# parse time         : 207ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:44 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86,7826ms
+moved types parse time: 56ms
+candidates parse time : 6ms
+C# parse time         : 182ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:47 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 89,7577ms
+moved types parse time: 55ms
+candidates parse time : 9ms
+C# parse time         : 177ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:06:56 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 80,9621ms
+moved types parse time: 52ms
+candidates parse time : 8ms
+C# parse time         : 169ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:07:12 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85,7722ms
+moved types parse time: 52ms
+candidates parse time : 9ms
+C# parse time         : 178ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 3/3/2021 5:07:33 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86,8415ms
+moved types parse time: 63ms
+candidates parse time : 4ms
+C# parse time         : 207ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/3/2021 1:35:33 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 709,1952ms
+moved types parse time: 55ms
+candidates parse time : 9ms
+C# parse time         : 283ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13/3/2021 1:36:00 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 74,37ms
+moved types parse time: 51ms
+candidates parse time : 8ms
+C# parse time         : 185ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14/3/2021 4:41:59 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 711,4758ms
+moved types parse time: 95ms
+candidates parse time : 6ms
+C# parse time         : 344ms
+candidates check time : 47ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 14/3/2021 4:42:15 μ.μ. : Starting C:/YEET/Programs/Unity/Editors/2020.2.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 120,6743ms
+moved types parse time: 87ms
+candidates parse time : 4ms
+C# parse time         : 238ms
+candidates check time : 38ms
+console write time    : 0ms
+
